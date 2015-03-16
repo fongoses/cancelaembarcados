@@ -1,0 +1,1 @@
+Escopo do trabalho final da disciplina de Sistemas Embarcados
